@@ -5,7 +5,7 @@ This is a folder where I store my samples of code concerning deep learning and b
 
 The first series (CARLA_SDC) are based on the tutorial of Sentdex. 
 
-The second series (CARLA_BRAX) are based on my own exploration of the CARLA environment.I did not include the jupyter notebook to use the model but here is a little preview :
+The second series (CARLA_BRAX) are based on my own exploration of the CARLA environment.
 
 ![image](https://user-images.githubusercontent.com/55979445/97323670-5288cc00-1871-11eb-962f-3f3629567b78.png)
 
